@@ -1,0 +1,50 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_samsung_jactivelte",
+    "target_path": "device/samsung/jactivelte",
+    "remote": "cm",
+    "revision": "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "remote": "cm",
+    "revision": "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "remote": "cm",
+    "revision": "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "remote": "cm",
+    "revision": "cm-11.0"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_samsung_jf",
+    "target_path": "kernel/samsung/jf",
+    "remote": "cm",
+    "revision": "cm-11.0"
+  },
+  {
+    "repository": "AOSPA-legacy/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "remote": "github",
+    "revision": "kitkat"
+  },
+  {
+    "repository": "AOSPA-legacy/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote": "github",
+    "revision": "kitkat"
+  },
+  {
+    "repository": "proprietary_vendor_samsung" path="vendor/samsung",
+    "target_path": "vendor/samsung",
+    "remote": "blobs",
+    "revision": "cm-11.0"
+  }
+]
